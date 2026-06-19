@@ -478,7 +478,7 @@ Volunteer participant supporting one of Brazil's largest technology and innovati
 
 <div align="center">
 
-<img width="80%" src="https://github-readme-streak-stats.herokuapp.com/?user=iiaslaraa&theme=tokyonight&hide_border=true"/>
+<img width="80%" src="https://streak-stats.demolab.com?user=iiaslaraa&theme=tokyonight&hide_border=true"/>
 
 </div>
 

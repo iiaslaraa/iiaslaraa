@@ -468,7 +468,7 @@ Volunteer participant supporting one of Brazil's largest technology and innovati
 
 <div align="center">
 
-<img width="100%" src="./github-metrics.svg"/>
+<img width="100%" src="https://raw.githubusercontent.com/iiaslaraa/iiaslaraa/main/github-metrics.svg"/>
 
 </div>
 

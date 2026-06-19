@@ -478,7 +478,19 @@ Volunteer participant supporting one of Brazil's largest technology and innovati
 
 <div align="center">
 
-<img width="80%" src="https://streak-stats.demolab.com?user=iiaslaraa&theme=tokyonight&hide_border=true"/>
+<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=iiaslaraa&theme=tokyonight"/>
+
+<br><br>
+
+<img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=iiaslaraa&theme=tokyonight"/>
+
+<img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=iiaslaraa&theme=tokyonight"/>
+
+<br><br>
+
+<img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=iiaslaraa&theme=tokyonight"/>
+
+<img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=iiaslaraa&theme=tokyonight&utcOffset=-3"/>
 
 </div>
 

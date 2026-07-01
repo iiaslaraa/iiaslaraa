@@ -326,7 +326,7 @@ The project focuses on building a complete curriculum management system using we
 
 🔗 **GitHub**
 
-https://github.com/iiaslaraa/SGC_SistemaGerenciadorDeCurriculo
+https://github.com/iiaslaraa/SGC-SistemaGerenciadorDeCurriculo
 
 </details>
 

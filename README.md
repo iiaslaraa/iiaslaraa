@@ -278,7 +278,7 @@ Enterprise-style Java application integrated with MySQL, following Object-Orient
 
 🔗 **GitHub**
 
-https://github.com/iiaslaraa/Java
+https://github.com/iiaslaraa/SistemaDeGerenciamentoDeClinicaMedica
 
 </details>
 

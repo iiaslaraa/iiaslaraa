@@ -85,6 +85,8 @@ I enjoy solving real-world problems through **clean, maintainable and efficient 
 
 <img src="https://skillicons.dev/icons?i=css"/>
 
+<img src="https://skillicons.dev/icons?i=c"/>
+
 <img src="https://skillicons.dev/icons?i=php"/>
 
 <img src="https://skillicons.dev/icons?i=javascript"/>
@@ -109,7 +111,7 @@ I enjoy solving real-world problems through **clean, maintainable and efficient 
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=java,php"/>
+<img src="https://skillicons.dev/icons?i=java,php,c"/>
 
 </p>
 
@@ -118,6 +120,7 @@ I enjoy solving real-world problems through **clean, maintainable and efficient 
 - Java
 - JDBC
 - PHP
+- C *(Learning)*
 - REST APIs *(Learning)*
 
 ---
@@ -198,6 +201,7 @@ I enjoy solving real-world problems through **clean, maintainable and efficient 
 ```yaml
 Learning:
   - Java
+  - C
   - HTML5
   - CSS3
   - PHP
@@ -374,6 +378,7 @@ Escola Técnica de Brasília (ETB)
 
 - Networking Fundamentals
 - Cisco Packet Tracer
+- Data Science (TIC em Trilhas)
 
 ---
 
@@ -461,46 +466,6 @@ Volunteer participant supporting one of Brazil's largest technology and innovati
 - Data Science
 - Software Design Patterns
 - Backend Architecture
-
----
-
-# GitHub Analytics
-
-<div align="center">
-
-<img width="100%" src="https://raw.githubusercontent.com/iiaslaraa/iiaslaraa/main/github-metrics.svg"/>
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=iiaslaraa&theme=tokyonight"/>
-
-<br><br>
-
-<img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=iiaslaraa&theme=tokyonight"/>
-
-<img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=iiaslaraa&theme=tokyonight"/>
-
-<br><br>
-
-<img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=iiaslaraa&theme=tokyonight"/>
-
-<img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=iiaslaraa&theme=tokyonight&utcOffset=-3"/>
-
-</div>
-
----
-
-# GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=iiaslaraa&theme=tokyonight&no-frame=true&column=4&margin-w=15&margin-h=15"/>
-
-</div>
 
 ---
 

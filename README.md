@@ -469,16 +469,6 @@ Volunteer participant supporting one of Brazil's largest technology and innovati
 
 ---
 
-# Contribution Activity
-
-<div align="center">
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=iiaslaraa&theme=tokyo-night&hide_border=true"/>
-
-</div>
-
----
-
 # Contribution Snake
 
 <div align="center">
@@ -486,40 +476,6 @@ Volunteer participant supporting one of Brazil's largest technology and innovati
 <img src="https://raw.githubusercontent.com/iiaslaraa/iiaslaraa/output/github-contribution-grid-snake-dark.svg"/>
 
 </div>
-
----
-
-# Current Focus
-
-```yaml
-Learning:
-  - Java
-  - JavaScript
-  - PHP
-  - AWS
-  - Cloud Computing
-  - REST APIs
-
-Building:
-  - Java Desktop Applications
-  - Full Stack Web Applications
-  - CRUD Systems
-  - Database Modeling
-  - Academic Software Projects
-
-Exploring:
-  - Artificial Intelligence
-  - Machine Learning
-  - Software Engineering
-  - Clean Architecture
-  - Backend Architecture
-  - Cloud Computing
-
-Open To:
-  - Software Engineering
-  - Backend Development
-  - Data Analysis
-```
 
 ---
 
